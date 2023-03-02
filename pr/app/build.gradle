@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.firstaap'
+    namespace 'com.example.test_project_git'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.firstaap"
+        applicationId "com.example.test_project_git"
         minSdk 16
         targetSdk 33
         versionCode 1

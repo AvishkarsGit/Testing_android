@@ -1,4 +1,4 @@
-package com.example.firstaap;
+package com.example.test_project_git;
 
 import androidx.appcompat.app.AppCompatActivity;
 
